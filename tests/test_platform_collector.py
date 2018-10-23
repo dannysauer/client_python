@@ -93,5 +93,6 @@ class _MockPlatform(object):
             ("os_name", "os_version", "os_arch")
         )
 
+
 if __name__ == '__main__':
     unittest.main()
